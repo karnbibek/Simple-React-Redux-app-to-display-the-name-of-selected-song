@@ -1,3 +1,6 @@
+Deployed in Netlify
+Link: https://inspiring-jennings-f4d96c.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
